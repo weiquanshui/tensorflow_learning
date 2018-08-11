@@ -1,0 +1,2 @@
+#！bin
+#test.sh
